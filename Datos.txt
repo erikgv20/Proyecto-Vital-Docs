@@ -1,0 +1,9 @@
+SISMEDIC NUEVO
+http://localhost:8080/
+user: gcarlos
+Pa$$w0rd123
+
+GITHUB
+github : zoluxionesvital
+contraseña: Pl4nv1t4l
+email: erik.guerrero@zoluxiones.com
