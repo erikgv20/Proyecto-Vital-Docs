@@ -1,9 +1,57 @@
+SISMEDIC ANTIGUO (User Dra.)
+user: 70435436
+password: 70435436
+
+SISMEDIC PRUEBAS
+http://192.168.122.10:8080/
+User: ZOLUXIONES
+Contraseña: ZOLUXIONES (editado) 
+
 SISMEDIC NUEVO
 http://localhost:8080/
 user: gcarlos
-Pa$$w0rd123
+password: Pa$$w0rd123
 
+##############
 GITHUB
+##############
 github : zoluxionesvital
 contraseña: Pl4nv1t4l
 email: erik.guerrero@zoluxiones.com
+
+################
+DB
+################
+
+DB SQL Dev
+----------
+ip: 192.168.122.10
+user: zoluxiones
+pass: 12345
+Schema: Sismedic
+
+DB SQL Produccion
+-----------------
+ip: 192.168.124.5
+user: sa
+pass: Omn14m3d1c4123
+Schema: Sismedic
+
+Wifi Omnia Usuarios
+Pass: OmN142015
+
+Wifi Omnia Invitados
+Pass: OmN142014
+
+
+================================
+SSH QA
+------
+
+192.168.122.44 - FRONTEND / nginx
+Usuario: root
+Contraseña: Pa$$w0rd123
+ 
+192.168.122.45 - BACKEND / pm2
+Usuario: root
+Contraseña: Pa$$w0rd123
